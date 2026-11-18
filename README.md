@@ -1,4 +1,4 @@
-# GAMEDIA · Fase 1
+
 
 Next.js 14 + TypeScript + Tailwind + Supabase. **No se ha podido ejecutar ni probar aún** (se generó sin acceso a internet): el primer `npm install` y `npm run dev` son la prueba real.
 
