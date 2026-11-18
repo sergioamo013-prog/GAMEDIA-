@@ -20,3 +20,4 @@ Next.js 14 + TypeScript + Tailwind + Supabase. **No se ha podido ejecutar ni pro
 | Perfil editable, amigos, chat, notificaciones, administración | Pendiente (interfaz) |
 | Torneos, rankings, estadísticas, voz WebRTC, salas, Premium | Pendiente (tablas sin crear) |
 | OAuth Steam, Epic, Roblox, Xbox, PSN | Pendiente (requiere credenciales de cada proveedor) |
+npm run dev
